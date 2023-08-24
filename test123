@@ -1,3 +1,4 @@
+if game.PlaceId == 8267733039 then 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
@@ -25,7 +26,6 @@ local Window = Rayfield:CreateWindow({
        Key = {"Rewrite"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
     }
  })
-if game.PlaceId == 8267733039 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Baclan123123/1246/main/6362"))()
 end
 end
