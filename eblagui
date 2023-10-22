@@ -26,8 +26,8 @@ local ArrayFieldLibrary = {
 			TextFont = "Default", -- Default will use the various font faces used across ArrayField
 			TextColor = Color3.fromRGB(240, 240, 240),
 
-			Background = Color3.fromRGB(25, 25, 25),
-			Topbar = Color3.fromRGB(34, 34, 34),
+			Background = Color3.fromRGB(13, 40, 24),
+			Topbar = Color3.fromRGB(13, 40, 24),
 			Shadow = Color3.fromRGB(20, 20, 20),
 
 			NotificationBackground = Color3.fromRGB(20, 20, 20),
