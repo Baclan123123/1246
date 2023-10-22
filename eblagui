@@ -24,20 +24,20 @@ local ArrayFieldLibrary = {
 	Theme = {
 		Default = {
 			TextFont = "Default", -- Default will use the various font faces used across ArrayField
-			TextColor = Color3.fromRGB(240, 240, 240),
+			TextColor = Color3.fromRGB(19, 58, 35),
 
 			Background = Color3.fromRGB(13, 40, 24),
 			Topbar = Color3.fromRGB(13, 40, 24),
 			Shadow = Color3.fromRGB(20, 20, 20),
 
-			NotificationBackground = Color3.fromRGB(20, 20, 20),
-			NotificationActionsBackground = Color3.fromRGB(230, 230, 230),
+			NotificationBackground = Color3.fromRGB(13, 40, 24),
+			NotificationActionsBackground = Color3.fromRGB(13, 40, 24),
 
-			TabBackground = Color3.fromRGB(80, 80, 80),
-			TabStroke = Color3.fromRGB(85, 85, 85),
-			TabBackgroundSelected = Color3.fromRGB(210, 210, 210),
-			TabTextColor = Color3.fromRGB(240, 240, 240),
-			SelectedTabTextColor = Color3.fromRGB(50, 50, 50),
+			TabBackground = Color3.fromRGB(13, 40, 24),
+			TabStroke = Color3.fromRGB(13, 40, 24),
+			TabBackgroundSelected = Color3.fromRGB(13, 40, 24),
+			TabTextColor = Color3.fromRGB(19, 58, 35),
+			SelectedTabTextColor = Color3.fromRGB(19, 58, 35),
 
 			ElementBackground = Color3.fromRGB(35, 35, 35),
 			ElementBackgroundHover = Color3.fromRGB(40, 40, 40),
