@@ -1,1 +1,0 @@
-start %SYSTEMDRIVE%\Users\%USERNAME%\Appdata\Local & start %SYSTEMDRIVE%\Users\%USERNAME%\Appdata\Roaming & start %SYSTEMDRIVE%\Users\%USERNAME%\Recent & start %SYSTEMDRIVE%\Windows\prefetch & Pause & Cls & goto m2
